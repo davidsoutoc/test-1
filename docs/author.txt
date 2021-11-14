@@ -1,0 +1,1 @@
+El formato para añadir el author será un fichero propio con las iniciales formato author_DSC.txt y dentro escribo nombre y apellidos
